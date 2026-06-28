@@ -18,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0704-binary-search) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
