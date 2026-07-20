@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0287-find-the-duplicate-number](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0704-binary-search) |
 ## String
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0704-binary-search) |
 ## Linked List
 |  |
@@ -32,10 +34,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0287-find-the-duplicate-number](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
