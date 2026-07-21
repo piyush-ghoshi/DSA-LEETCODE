@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0287-find-the-duplicate-number](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0704-binary-search) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -43,8 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
+## Counting
+|  |
+| ------- |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 <!---LeetCode Topics End-->
