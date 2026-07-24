@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0053-maximum-subarray](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0704-binary-search) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -61,8 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 ## Math
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0012-integer-to-roman) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
