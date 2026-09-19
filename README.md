@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0796-rotate-string](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0796-rotate-string) |
 ## Trie
 |  |
 | ------- |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/piyush-ghoshi/DSA-LEETCODE/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
